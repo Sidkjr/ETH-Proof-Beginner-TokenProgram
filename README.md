@@ -23,7 +23,10 @@ The Burn function also considers the total supply before burning Tokens using th
 * You will find the following in the deployed contracts section, all the variables and functions that are written in the code
 
 ![image](https://github.com/Sidkjr/ETH-Proof-Beginner-TokenProgram/assets/40859683/576fdb06-48cb-463b-81fc-171579acaf96)
+
+
 * Remix IDE provides you with sample Addresses for you to test your program at the account section, You can copy any address and use it as a parameter to be passed into our functions.
+  
   ![image](https://github.com/Sidkjr/ETH-Proof-Beginner-TokenProgram/assets/40859683/f7849e7b-46fe-4f83-84fc-6f3a1a4760a5)
   
 * Pass the Number of tokens you want to Mint/Burn and the address and click Transact
